@@ -1,6 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 # 📊 TikTok Virality Project
 Master IASD – M1 IDD – Machine Learning Project
